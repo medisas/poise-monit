@@ -1,5 +1,9 @@
 # Poise-Monit Changelog
 
+## v1.6.1
+
+* Update `poise-service` to 1.5. I really hope none of the APIs changed.
+
 ## v1.6.0
 
 * Update to `poise-languages` 2.0. None of the changed APIs are used in this
